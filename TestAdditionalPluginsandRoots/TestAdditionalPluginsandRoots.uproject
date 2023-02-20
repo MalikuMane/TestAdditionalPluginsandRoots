@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "",
+	"Category": "",
+	"Description": "",
+	"AdditionalPluginDirectories": ["../ExternalPlugins"],
+	"AdditionalRootDirectories": ["../ExternalRoot"],
+	"Modules": [
+		{
+			"Name": "TestAdditionalPluginsandRoots",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
+
